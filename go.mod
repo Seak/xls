@@ -1,4 +1,4 @@
-module github.com/extrame/xls
+module 	github.com/Seak/xls
 
 go 1.20
 
