@@ -1,4 +1,4 @@
-module 	github.com/Seak/xls
+module 	github.com/seak/xls
 
 go 1.20
 
